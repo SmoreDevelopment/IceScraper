@@ -1,0 +1,15 @@
+{
+    "team": "Tigers",
+    "practice": 
+    {
+        "url": "https://gilbert.frontline-connect.com/leagueschedule.cfm?fac=gilbert&facid=1&Sched_id=356",
+        "xpath": "/html/body/div/div[2]/div[1]/div/form/div/div[2]/div[1]/table/tbody/tr/td"
+    },
+    "games": 
+    {
+        "url": "https://gilbert.frontline-connect.com/leagueschedule.cfm?fac=gilbert&facid=1&Sched_id=360",
+        "xpath": "/html/body/div/div[2]/div[1]/div/form/div/div[2]/div/table/tbody"
+    },
+    "location": "AZ ICE Gilbert, 2305 E Knox Rd, Gilbert, AZ 85296, USA",
+    "ics_file": "tigers_schedule.ics"
+}
