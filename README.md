@@ -5,7 +5,7 @@ This is a python script scrapes the AZ ICE Gilbert website for game and practice
 # Requirements
 
 - Python - 3.6 or greater
-- Ics.py - 0.4 & 0.5
+- Ics.py - 0.4 / 0.5
 - requests - 2.21.0
 - lxml - 4.3.3.0
 
